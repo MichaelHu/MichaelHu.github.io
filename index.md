@@ -2,6 +2,15 @@
 
 > Connect me if you like.
 
+<style type="text/css">
+.markdown-body { 
+    max-width: 1012px;
+    padding: 0 16px !important;
+    margin-left: auto; 
+    margin-right: auto; 
+}
+</style>
+
 ## List
 
 > Domains below can be transfered.
